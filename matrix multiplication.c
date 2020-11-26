@@ -94,6 +94,7 @@ int main()
         printf("\n");
 
     }
+    printf("Thanks for Using this program\nProgrammed by Md. Tanvir Arif Siddiqui.");
     return 0;
 }
 
